@@ -14,5 +14,3 @@ hi, i'm riley. i program things sometimes. 🤑
 
 - c - attempting to make random shit
 
-# projects
-i have no public projects yet.
